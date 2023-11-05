@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Movie;
 use Illuminate\Http\Request;
 
-class YoriController extends Controller
+class KeisyaController extends Controller
 {
 
     public function index(){

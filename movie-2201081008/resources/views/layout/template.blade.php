@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>tiMovie - @yield('title', 'Homepage')</title>
+    <title>KeiiMovie - @yield('title', 'Homepage')</title>
     <link href="/bootstrap/bootstrap.min.css" rel="stylesheet">
   </head>
   <body>
